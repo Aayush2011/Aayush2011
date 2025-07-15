@@ -44,5 +44,5 @@
 
 *******
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aayushadh&show_icons=true&theme=cobalt">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushadh&show_icons=true&theme=cobalt">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aayush2011&show_icons=true&theme=cobalt">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush2011&show_icons=true&theme=cobalt">
